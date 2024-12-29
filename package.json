@@ -1,0 +1,27 @@
+{
+  "name": "api-twitch",
+  "private": false,
+  "version": "1.0.1",
+  "description": "ES6 JS classes for Twitch API requests and chat download",
+  "keywords": [
+    "twitch api",
+    "twitch",
+    "api",
+    "chat",
+    "twitch chat",
+    "chat download",
+    "rechat",
+    "twitch messages",
+    "v5",
+    "5",
+    "api version 5"
+  ],
+  "dependencies": {
+    "advancedrequest": "*",
+    "m3u8-stream-list": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/falconscript/api-twitch"
+  }
+}

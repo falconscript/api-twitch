@@ -1,8 +1,8 @@
 {
   "name": "api-twitch",
   "private": false,
-  "version": "1.0.1",
-  "description": "ES6 JS classes for Twitch API requests and chat download",
+  "version": "2.0.0",
+  "description": "Twitch GQL and Helix API classes for Twitch API requests and chat download",
   "keywords": [
     "twitch api",
     "twitch",
@@ -14,10 +14,15 @@
     "twitch messages",
     "v5",
     "5",
-    "api version 5"
+    "api version 5",
+    "helix",
+    "gql",
+    "Twitch GQL",
+    "comments",
+    "graph query language"
   ],
   "dependencies": {
-    "advancedrequest": "*",
+    "advancedrequest": "^2.1.0",
     "m3u8-stream-list": "^1.1.0"
   },
   "repository": {
